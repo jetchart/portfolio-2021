@@ -10,11 +10,11 @@ header img {
     width: 80%;
 }
 
-header .bajar {
+.bajar {
     text-align: center;
     z-index: 10;
     position: absolute;
-    bottom: 25vh;
+    bottom: 20vh;
     right: 3vw;
 }
 
