@@ -1,0 +1,43 @@
+header img {
+    width: 80%;
+}
+
+header .textos {
+    margin-top: 150px;
+    text-align: center;
+    color: #fff;
+}
+
+header .title {
+    font-weight: 500;
+    font-size: 46px;
+}
+
+section .textos {
+    width: 80%;
+    text-align: center;
+    color: #fff;
+    font-family: 'Roboto Condensed', sans-serif;
+}
+
+section .textos .title {
+    font-size: 40px;
+    font-weight: 600;
+    margin-bottom: 10px;
+}
+
+section .textos .description {
+    font-size: 24px;
+    font-weight: 300;
+}
+
+
+section .image {
+    width: 100%;
+    text-align: center;
+    margin-top: 20px;
+}
+
+.bajar .down-arrow {
+    width: 12%;
+}
